@@ -1,4 +1,4 @@
-vars/log.groovy
+vars/firstPipe.groovy
 def info(message) {
     echo "INFO: ${message}"
 }
