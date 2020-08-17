@@ -1,4 +1,5 @@
-@Library('mysharedlibrary1') _
+// @Library('mysharedlibrary1') _
+${library.mysharedlibrary1.version}
 pipeline {
     agent none
     stages {
